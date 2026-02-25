@@ -75,6 +75,7 @@ Run unit tests:
 sbt test
 
 ##Proof of success
-<img width="1071" height="355" alt="Screenshot 2026-02-25 141102" src="https://github.com/user-attachments/assets/9bada32f-c89c-4a17-beb6-64fcba31dfe8" />
-<img width="1453" height="686" alt="Screenshot 2026-02-25 141157" src="https://github.com/user-attachments/assets/47107b96-6e06-49e4-b905-a5344a8ee8be" />
-<img width="623" height="360" alt="Screenshot 2026-02-25 141225" src="https://github.com/user-attachments/assets/4506bc3e-1582-41a7-ad3d-fb45a9e5c38a" />
+<img width="1071" height="355" alt="Screenshot 2026-02-25 141102" src="https://github.com/user-attachments/assets/75a7bcee-45ed-4698-b1ac-b8ba6a390513" />
+<img width="1453" height="686" alt="Screenshot 2026-02-25 141157" src="https://github.com/user-attachments/assets/83f37f55-6b4f-4bf9-b22e-d4f9216ed5d9" />
+<img width="623" height="360" alt="Screenshot 2026-02-25 141225" src="https://github.com/user-attachments/assets/1b1e6bbd-df1f-41e0-8405-9473df4ca49f" />
+
