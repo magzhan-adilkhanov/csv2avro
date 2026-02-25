@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="project:test [file:///C:/Users/MagzhanAdilkhanov/csv-to-avro-spark/project/]" external.linked.project.path="C:\Users\MagzhanAdilkhanov\csv-to-avro-spark\project" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="SBT" external.system.module.type="sbtSourceSet" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="project.test" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+    <output-test url="file://$MODULE_DIR$/../../../target/scala-2.12/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../src/test" />
+    <content url="file://$MODULE_DIR$/../../../target/scala-2.12/resource_managed/test" />
+    <content url="file://$MODULE_DIR$/../../../target/scala-2.12/src_managed/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: scala-sdk-2.12.20" level="project" />
+    <orderEntry type="module" module-name="project.main" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.12.20:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.eed3si9n:sbt-assembly:2.2.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.eed3si9n.jarjarabrams:jarjar-abrams-core_2.12:1.14.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.eed3si9n.jarjar:jarjar:1.14.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-reflect:2.12.20:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm:9.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm-commons:9.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.commons:commons-lang3:3.8.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm-tree:9.6:jar" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="project.main" />
+</module>

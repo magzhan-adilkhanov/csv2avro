@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/csv-to-avro-spark/csv-to-avro-spark.iml" filepath="$PROJECT_DIR$/.idea/modules/csv-to-avro-spark/csv-to-avro-spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/csv-to-avro-spark/csv-to-avro-spark.csv-to-avro-spark-build.iml" filepath="$PROJECT_DIR$/.idea/modules/csv-to-avro-spark/csv-to-avro-spark.csv-to-avro-spark-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/csv-to-avro-spark/csv-to-avro-spark.main.iml" filepath="$PROJECT_DIR$/.idea/modules/csv-to-avro-spark/csv-to-avro-spark.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/csv-to-avro-spark/csv-to-avro-spark.test.iml" filepath="$PROJECT_DIR$/.idea/modules/csv-to-avro-spark/csv-to-avro-spark.test.iml" />
+    </modules>
+  </component>
+</project>
